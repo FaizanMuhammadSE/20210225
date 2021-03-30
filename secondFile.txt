@@ -3,4 +3,4 @@ This line is added at remote repository
 I hope now it is also available locally.
 Because it is very effective to use
 Again changed locally
-trying to raise merge conflict at local repo
+trying to change this line remotely
